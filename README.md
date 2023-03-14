@@ -1,7 +1,7 @@
 # Revist CLIP: Multi-perspective improvements on Vision-Language Model
 
 
-> [Wenbo Hu](https://gordonhu608.github.io/), [Johnny Liu]
+> [Wenbo Hu](https://gordonhu608.github.io/), [Johnny Liu](https://github.com/jawkneeLoo)
 
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://gordonhu608.github.io/Revisit_CLIP/)
 [![Temporary paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://gordonhu608.github.io/files/revisitclip.pdf)
@@ -56,7 +56,7 @@ importance in few-shot learning and thus should be used as a convention in futur
 <hr />
 
 ## Results
-### MaPLe in comparison with existing methods
+### Our method in comparison with existing methods
 Results reported below show accuracy for few shot training on [1,2,4,8,16] for across 10 recognition datasets averaged over 3 seeds.
 
 | Name                                                      | 1-shot | 2-shot |   4-shot     | 8-shot |  16-shot | 

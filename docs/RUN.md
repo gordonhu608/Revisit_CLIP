@@ -50,4 +50,3 @@ scripts
 ```
 
 Please use the corresponding config and script files and follow the same instructions for our method as provided in order to train and evaluate the other variants. Same instructions can be followed to reproduce results of other variants using provided pretrained weights.
-This repository also supports using official [CoOp](CoOp.md) and [Co-CoOp](Co-CoOp.md) configs and models.
