@@ -1,5 +1,3 @@
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-cayman
 title: "Revisit CLIP: Multi-Perspective Improvements for Vision-Language Mode"
 description: Revisit multi perspective improvements on CLIP
-github:
-  repository_url: https://github.com/gordonhu608/Revisit_CLIP
