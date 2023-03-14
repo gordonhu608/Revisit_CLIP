@@ -57,7 +57,7 @@ state-of-the-art baselines on each downstream task. (a) We compare the hand-craf
 Our method is compared with the best performance among other baselines (including CoOp, CLIP-Adapter, Linear-probe CLIP,
 and ProDA ) by their average results over various shots (1, 2, 4, 8, and 16).
 
-![res2](assets/relative_difff.png)
+![res2](assets/relative_diff.png)
 
 Test Time Augmentation (TTA) is less valued in the few-shot learning community. However, due to the limited samples we can acquire in this task,
 data augmentation is a neglectable approach to get a more
